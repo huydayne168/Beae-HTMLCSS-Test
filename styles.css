@@ -745,6 +745,7 @@ body {
     text-decoration: none;
     font-size: 14px;
     display: flex;
+    gap: 25px;
     align-items: center;
     margin-bottom: 12px;
     transition: color 0.3s;
